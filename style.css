@@ -144,6 +144,8 @@ body.modal-open {
   }
   .modal-logo {
     width: 100px;
+    top: 15px;
+    right: 15px;
   }
   .modal-close-btn {
     top: 15px;

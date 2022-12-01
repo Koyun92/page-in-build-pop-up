@@ -81,10 +81,8 @@ body.modal-open {
   text-align: center;
 }
 .modal-logo {
-  position: absolute;
-  top: 8px;
-  left: 8px;
-  width: 80px;
+  width: 140px;
+  padding-bottom: 20px;
 }
 .title {
   text-transform: uppercase;
@@ -143,9 +141,8 @@ body.modal-open {
     padding: 10px;
   }
   .modal-logo {
-    width: 100px;
-    top: 15px;
-    right: 15px;
+    width: 180px;
+    padding-bottom: 40px;
   }
   .modal-close-btn {
     top: 15px;
